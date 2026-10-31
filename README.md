@@ -38,27 +38,3 @@ Tecnologías y Herramientas:
   <img src="https://app.matatika.com/assets/images/datasource/tap-beautifulsoup.png" width="180" height="50" alt="Beautiful Soup" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Selenium_Logo.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original" width="50" height="50" alt="Logo Selenium" />
 </p>
-
-## Proyectos Destacados
-
-### 💻 [Sistema para emitir votos electorales Perú2026](https://github.com/edwardrosales27032008-source)
-*Aplicación web completa con lógica backend y persistencia en la nube.*
-- **Stack:** Node.js, Express, MongoDB Atlas, HTML, CSS, JavaScript, Docker y azure.
-- **Características:** Arquitectura monolítica, diseño UI adaptativo y manejo de rutas protegidas.
-
-### 📊 [Automatización y Web Scraping](https://github.com/edwardrosales27032008-source)
-*Extracción de información desde la web para análisis estadístico.*
-- **Stack:** Python, Beautiful Soup, Pandas, NumPy, Matplotlib.
-
----
-
-## 📫 Contacto y Redes
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/edward-rosales-moreno-6093763aa/" target="_blank">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:edwardrosales27032008@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-  </a>
-</p>
